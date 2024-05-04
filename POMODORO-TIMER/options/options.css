@@ -1,0 +1,35 @@
+body {
+    background-color: indianred;
+    text-align: center;
+    color: whitesmoke
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    height: 40px;
+    background-color: whitesmoke;
+    margin: -8px;
+    padding: 8px;
+}
+
+#time-option {
+    outline: none;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    padding: 4px;
+}
+
+#save-options-btn {
+    outline: none;
+    border: none;
+    border-radius: 4px;
+    padding: 6px 8px;
+    color: indianred;
+    cursor: pointer;
+}
+
+h2 {
+    font-weight: lighter;
+}
